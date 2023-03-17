@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-import landingImage from "../../images/me.svg";
+import landingImage from "../../images/Hamdim.jpg";
 import SocialIcons from "../../components/SocialIcons";
 
 const Landing = ({ name, tagline }) => {
@@ -17,7 +17,7 @@ const Landing = ({ name, tagline }) => {
       bottom: "0",
       opacity: "0.3",
       mixBlendMode: "lighten",
-      height: "80%",
+      height: "90%",
     },
 
     textContainer: {
@@ -71,7 +71,7 @@ const Landing = ({ name, tagline }) => {
           className="landingImage"
           ref={ref}
           initial={{ y: "10vw", opacity: 0 }}
-          animate={inView ? { y: 0, opacity: 0.4 } : { y: "10vw", opacity: 0 }}
+          animate={inView ? { y: 0, opacity: 0.8 } : { y: "10vw", opacity: 0 }}
           transition={{ duration: 1, ease: "easeInOut" }}
           style={styles.landingImage}
           src={landingImage}
