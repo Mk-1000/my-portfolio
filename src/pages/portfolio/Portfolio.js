@@ -20,7 +20,7 @@ const Portfolio = () => {
 
   return (
     <section className="portfolio">
-      <PageHeader title="Portfolio" description="View my work" />
+      <PageHeader title="Portfolio" description="View mys work" />
       <div className="row">
         <ProjectList />
       </div>
