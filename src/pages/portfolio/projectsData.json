@@ -1,20 +1,20 @@
 [
   {
     "title": "YouDow",
-    "image": "./projectImages/bike.png",
-    "description": "I was responsible for the routing functionality of Bike Buddy, an application that helps parents and guardians keep their children safe while cycling. Utilises the Leaflet.js library and TomTom Routing/Reverse Geolocation API's to create an interactive and visually appealing map that allows a user to plot a route, taking into account various factors such as traffic levels, bicycle lanes, and elevation.",
-    "technologies": "python | react ",
+    "image": "./projectImages/project1.png",
+    "description": "YouDow is a web-based tool that allows users to easily download YouTube videos and playlists in various formats.",
+    "technologies": "python | React ",
     "github": "https://github.com/Mk-1000/YouDow-desk",
     "deployed": "https://www.canva.com/design/DAFb-2Xlklk/m_Euki9TuaNsPwe12GHQpw/view?utm_content=DAFb-2Xlklk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
     "bgcolor": "#009e66",
     "id": "1"
   },
   {
-    "title": "Weather",
-    "image": "./projectImages/weather.png",
-    "technologies": "jQuery | HTML | CSS",
+    "title": "Construction",
+    "image": "./projectImages/project2.png",
+    "technologies": "PHP | jQuery | HTML | CSS",
     "description": " This dashboard uses the OpenWeatherMap API to retrieve detailed weather data, including the city name, date, weather icon, temperature, humidity, and wind speed. The dashboard has a 5-day forecast feature and a search history feature that saves past searches for easy access. It also has a dark/light theme that changes the look of the page based on day or night in the searched location and uses the geolocation API to automatically determine the user's current location and display the weather.",
-    "github": "https://construction.rf.gd/",
+    "github": "",
     "deployed": "https://construction.rf.gd/",
     "bgcolor": "#C9C9C8",
     "id": "2"
