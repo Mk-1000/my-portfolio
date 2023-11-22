@@ -9,7 +9,7 @@ function App() {
     email: "moknihamdi712@gmail.com",
     availability: "Open for work",
     brand:
-      "My unique blend of technical expertise, creative thinking, and background in psychology allows me to approach each project with a deep understanding of the end user's perspective, resulting in highly effective user-centred digital products.",
+      "I am a developer who is passionate about turning dreams into reality. I don't just imagine things; I bring them to life. I am skilled in all aspects of the development process, from design to implementation. I am committed to creating high-quality, functional solutions.",
   };
 
   return (

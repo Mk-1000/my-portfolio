@@ -1,64 +1,42 @@
 [
   {
+    "title": "Kardili",
+    "image": "./projectImages/project4.png",
+    "description": "I created the Kardili app, which offers customers the possibility of making deferred purchases in-store, with limits on the amount and a specific date. This project was carried out using Flutter, Dart and Firebase.",
+    "technologies": "Flutter | Dart | Firebase | React | Google Cloud Platform",
+    "github": "https://github.com/Mk-1000/Kardili",
+    "deployed": "https://youtu.be/94YC2eC6gD0",
+    "bgcolor": "#C9C9C8",
+    "id": "1"
+  },
+  {
+    "title": "AskMind",
+    "image": "./projectImages/project3.png",
+    "description": "I took part in the development of the AskMind project, offering users the possibility of asking questions about documents stored in a directory. For this, we used Django, an artificial intelligence model, natural language processing (NLP) and ElasticSearch.",
+    "technologies": "Django | ElasticSearch | NLP | AI",
+    "github": "https://github.com/Mk-1000/AskMind",
+    "deployed": "https://github.com/Mk-1000/AskMind/assets/86926622/c1681e38-85b9-460e-98e1-01c03a1762a3",
+    "bgcolor": "#009e66",
+    "id": "2"
+  },
+  {
     "title": "YouDow",
     "image": "./projectImages/project1.png",
-    "description": "YouDow is a web-based tool that allows users to easily download YouTube videos and playlists in various formats.",
-    "technologies": "python | React ",
+    "description": "I developed YouDow, a desktop application for downloading videos and music online, accompanied by a dedicated download site. For its creation, I used React, Python, customTkinter, the Google Cloud Platform and NSIS.",
+    "technologies": "python | React | Google Cloud Platform",
     "github": "https://github.com/Mk-1000/YouDow-desk",
-    "deployed": "https://www.canva.com/design/DAFb-2Xlklk/m_Euki9TuaNsPwe12GHQpw/view?utm_content=DAFb-2Xlklk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
+    "deployed": "https://www.canva.com/design/DAFbVj0ttW4/r6juxjwa3m2necKYS8AWWA/view?utm_content=DAFbVj0ttW4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
     "bgcolor": "#009e66",
-    "id": "1"
+    "id": "3"
   },
   {
     "title": "Construction",
     "image": "./projectImages/project2.png",
     "technologies": "PHP | jQuery | HTML | CSS",
-    "description": " This dashboard uses the OpenWeatherMap API to retrieve detailed weather data, including the city name, date, weather icon, temperature, humidity, and wind speed. The dashboard has a 5-day forecast feature and a search history feature that saves past searches for easy access. It also has a dark/light theme that changes the look of the page based on day or night in the searched location and uses the geolocation API to automatically determine the user's current location and display the weather.",
+    "description": " Creation of a web platform to monitor budgets, receive advice from experts and suppliers, and produce statistical analyses of construction expenditure. The platform will be developed using HTML, CSS, Bootstrap, JavaScript and MySQL.",
     "github": "",
     "deployed": "https://construction.rf.gd/",
     "bgcolor": "#C9C9C8",
-    "id": "2"
-  },
-  {
-    "title": "Team",
-    "image": "./projectImages/team.png",
-    "technologies": "JS | Node | Bootstrap | OOP | TTD",
-    "description": "Team Dashboard is a Node command-line application that takes in information about employees to generate a dynamic HTML web page.",
-    "github": "https://github.com/mdyeates/team-dashboard",
-    "deployed": "https://drive.google.com/file/d/1_atUXTM-L9r4NccsrPaaWqPyNu37ftwH/view",
-    "bgcolor": "#C9C9C8",
-    "id": "3"
-  },
-  {
-    "title": "Quiz",
-    "image": "./projectImages/quiz.png",
-    "technologies": "JS | HTML | CSS",
-    "description": "A quiz app on the fundamentals of JavaScript. There are 5 randomly selected multiple-choice questions and the user will have a time limit of 50 seconds. The remaining time will determine their score at the end. The user will be penalised by 10 seconds for every incorrect answer.",
-    "github": "https://github.com/mdyeates/coding-quiz",
-    "deployed": "https://mdyeates.github.io/coding-quiz/",
-    "bgcolor": "#009e66",
     "id": "4"
-  },
-
-  {
-    "title": "P1",
-    "image": "./projectImages/P1.png",
-    "description": "Welcome to P1, your virtual pit stop for the latest updates and standings in the world of F1. But that's not all—we've also got the ultimate card game where driver knowledge is the key to victory.",
-    "technologies": "React | Framer | CSS | Bootstrap | Node",
-    "github": "https://github.com/Jake-W95/P1",
-    "deployed": "https://p1-heroes.netlify.app/",
-    "bgcolor": "#009e66",
-    "id": "1"
-  },
-
-  {
-    "title": "Planner",
-    "image": "./projectImages/planner.png",
-    "technologies": "JS | Bootstrap | Moment",
-    "description": "Make every hour count with this simple Daily Planner App. You can keep track of all important appointments during a normal 9-5 work day!",
-    "github": "https://github.com/mdyeates/daily-planner",
-    "deployed": "https://mdyeates.github.io/daily-planner/",
-    "bgcolor": "#C9C9C8",
-    "id": "6"
   }
 ]
