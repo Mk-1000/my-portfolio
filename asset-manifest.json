@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.864c424b.css",
-    "main.js": "/my-portfolio/static/js/main.5eb9402d.js",
-    "static/media/costume.png": "/my-portfolio/static/media/costume.966e17045e52fbe35a4f.png",
+    "main.js": "/my-portfolio/static/js/main.6e73db77.js",
+    "static/media/costume2.png": "/my-portfolio/static/media/costume2.2ded123c698f5146ab92.png",
     "static/media/aboutme.jpeg": "/my-portfolio/static/media/aboutme.2d188b5cddd4749764a2.jpeg",
     "static/media/Hamdi-Mokni-Resume.pdf": "/my-portfolio/static/media/Hamdi-Mokni-Resume.3ffdf87157eb877d3e2a.pdf",
     "static/media/logo.svg": "/my-portfolio/static/media/logo.c66091423278d5d43a3aacb38c2b4726.svg",
@@ -10,10 +10,10 @@
     "static/media/close.svg": "/my-portfolio/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
     "static/media/open.svg": "/my-portfolio/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
     "main.864c424b.css.map": "/my-portfolio/static/css/main.864c424b.css.map",
-    "main.5eb9402d.js.map": "/my-portfolio/static/js/main.5eb9402d.js.map"
+    "main.6e73db77.js.map": "/my-portfolio/static/js/main.6e73db77.js.map"
   },
   "entrypoints": [
     "static/css/main.864c424b.css",
-    "static/js/main.5eb9402d.js"
+    "static/js/main.6e73db77.js"
   ]
 }
