@@ -5,7 +5,7 @@ import openMenu from "../images/open.svg";
 import closeMenu from "../images/close.svg";
 
 const NavLinks = () => {
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isMenuOpen, setIsMenuOpen] = useState(true);
   return (
     <>
       <button className="dropdown-toggle" onClick={() => setIsMenuOpen(!isMenuOpen)}>

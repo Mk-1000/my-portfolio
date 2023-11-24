@@ -1,7 +1,7 @@
 [
   {
     "title": "Kardili",
-    "image": "./projectImages/project4.png",
+    "image": "../../../src/images/project4.png",
     "description": "I created the Kardili app, which offers customers the possibility of making deferred purchases in-store, with limits on the amount and a specific date. This project was carried out using Flutter, Dart and Firebase.",
     "technologies": "Flutter | Dart | Firebase | React | Google Cloud Platform",
     "github": "https://github.com/Mk-1000/Kardili",
@@ -11,7 +11,7 @@
   },
   {
     "title": "AskMind",
-    "image": "./projectImages/project3.png",
+    "image": "../../../src/images/project3.png",
     "description": "I took part in the development of the AskMind project, offering users the possibility of asking questions about documents stored in a directory. For this, we used Django, an artificial intelligence model, natural language processing (NLP) and ElasticSearch.",
     "technologies": "Django | ElasticSearch | NLP | AI",
     "github": "https://github.com/Mk-1000/AskMind",
@@ -21,7 +21,7 @@
   },
   {
     "title": "YouDow",
-    "image": "./projectImages/project1.png",
+    "image": "../../../src/images/project1.png",
     "description": "I developed YouDow, a desktop application for downloading videos and music online, accompanied by a dedicated download site. For its creation, I used React, Python, customTkinter, the Google Cloud Platform and NSIS.",
     "technologies": "python | React | Google Cloud Platform",
     "github": "https://github.com/Mk-1000/YouDow-desk",
@@ -31,7 +31,7 @@
   },
   {
     "title": "Construction",
-    "image": "./projectImages/project2.png",
+    "image": "../../../src/images/project2.png",
     "technologies": "PHP | jQuery | HTML | CSS",
     "description": " Creation of a web platform to monitor budgets, receive advice from experts and suppliers, and produce statistical analyses of construction expenditure. The platform will be developed using HTML, CSS, Bootstrap, JavaScript and MySQL.",
     "github": "",
