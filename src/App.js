@@ -1,5 +1,6 @@
 import Header from "./components/Header";
 import AnimatedRoutes from "./components/AnimatedRoutes";
+import Landing from "./pages/landing/Landing";
 
 function App() {
   const personalDetails = {
@@ -15,6 +16,7 @@ function App() {
   return (
     <>
       <Header />
+      <Landing name={personalDetails.name} tagline={personalDetails.tagline}/>
       <AnimatedRoutes personalDetails={personalDetails} />
     </>
   );
