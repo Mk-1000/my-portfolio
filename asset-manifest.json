@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.4746a2f3.css",
-    "main.js": "/my-portfolio/static/js/main.6c19b9f8.js",
+    "main.css": "/my-portfolio/static/css/main.864c424b.css",
+    "main.js": "/my-portfolio/static/js/main.635d95e0.js",
     "static/media/hamdiMK.png": "/my-portfolio/static/media/hamdiMK.e7c709b250eb220b6d2a.png",
     "static/media/project2.png": "/my-portfolio/static/media/project2.e965a0415cd5f4166117.png",
     "static/media/project1.png": "/my-portfolio/static/media/project1.70f8d42d61adfe85a1f9.png",
     "static/media/project4.png": "/my-portfolio/static/media/project4.0f3400f9500362907ebb.png",
     "static/media/project3.png": "/my-portfolio/static/media/project3.80506397775239ad9163.png",
     "static/media/aboutme.jpeg": "/my-portfolio/static/media/aboutme.2d188b5cddd4749764a2.jpeg",
-    "static/media/Hamdi-Mokni-Resume.pdf": "/my-portfolio/static/media/Hamdi-Mokni-Resume.3ffdf87157eb877d3e2a.pdf",
+    "static/media/Hamdi-Mokni-Resume.pdf": "/my-portfolio/static/media/Hamdi-Mokni-Resume.e67f07415c9e3ad92eab.pdf",
     "static/media/logo.svg": "/my-portfolio/static/media/logo.c66091423278d5d43a3aacb38c2b4726.svg",
     "index.html": "/my-portfolio/index.html",
     "static/media/close.svg": "/my-portfolio/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
     "static/media/open.svg": "/my-portfolio/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
-    "main.4746a2f3.css.map": "/my-portfolio/static/css/main.4746a2f3.css.map",
-    "main.6c19b9f8.js.map": "/my-portfolio/static/js/main.6c19b9f8.js.map"
+    "main.864c424b.css.map": "/my-portfolio/static/css/main.864c424b.css.map",
+    "main.635d95e0.js.map": "/my-portfolio/static/js/main.635d95e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.4746a2f3.css",
-    "static/js/main.6c19b9f8.js"
+    "static/css/main.864c424b.css",
+    "static/js/main.635d95e0.js"
   ]
 }
