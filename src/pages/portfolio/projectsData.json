@@ -3,7 +3,7 @@
     "title": "Kardili",
     "image": "../../../src/images/project4.png",
     "description": "I created the Kardili app, which offers customers the possibility of making deferred purchases in-store, with limits on the amount and a specific date. This project was carried out using Flutter, Dart and Firebase.",
-    "technologies": "Flutter | Dart | Firebase | React | Google Cloud Platform",
+    "technologies": "Flutter | Firebase | React | Google Cloud Platform",
     "github": "https://github.com/Mk-1000/Kardili",
     "deployed": "https://youtu.be/94YC2eC6gD0",
     "bgcolor": "#C9C9C8",
